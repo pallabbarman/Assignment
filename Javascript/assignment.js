@@ -1,3 +1,5 @@
+// https://github.com/pallabbarman/Assignment
+
 // kilometer to meter 
 
 function kilometerToMeter(value) {
@@ -70,5 +72,5 @@ function megaFriend(names) {
     }
     return largestName;
 }
-var friendsName = megaFriend(["Pallab", "Pallabi", "Sabbir", "Archana", "Snake", "Sajib", "Naimur"]);
+var friendsName = megaFriend(["Pallab", "Pallabi", "Archana", "Snake", "Sajib", "Naimur"]);
 console.log(friendsName);
